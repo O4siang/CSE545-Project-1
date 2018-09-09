@@ -16,11 +16,11 @@ vagrant up
 4. After vagrant up completes, you will be able to connect to your locally running MongoDB with this IP Adress: 192.168.33.10, Default port. You can use this tool if you like: https://robomongo.org/
 
 <h2>System Information</h2>
-1. OS: ubuntu 16.04
-2. Http Server: Nginx, Tomcat
-3. Frontend Framework: Angular1
-4. Backend Framework: Spring
-5. Database: MongoDB
+1. OS: ubuntu 16.04</br>
+2. Http Server: Nginx, Tomcat</br>
+3. Frontend Framework: Angular1</br>
+4. Backend Framework: Spring</br>
+5. Database: MongoDB</br>
 
 <h2>Banking Functions</h2>
 Just same as the BOA, Chase…etc. web bank applications. We have different types of account and credit card functions. With the complete transaction functions to transfer money and check the history.</br>
