@@ -43,10 +43,10 @@ Just same as the BOA, Chase…etc. web bank applications. We have different type
 <img src="./img/class-diagram.jpeg"></img>
 
 <h2>Screenshot</h2>
-login in
-<img src="./img/1.jpeg"></img>
-virutal keyboard and one time password
-<img src="./img/2.jpeg"></img>
+login in</br>
+<img width="70%" src="./img/1.jpeg"></br>
+virutal keyboard and one time password<br/>
+<img width="70%" src="./img/2.jpeg"><br/>
 user management(1)
 <img src="./img/3.jpeg"></img>
 user management(2)
