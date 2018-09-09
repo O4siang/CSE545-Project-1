@@ -41,3 +41,6 @@ Just same as the BOA, Chase…etc. web bank applications. We have different type
 
 <h2>Class Diagram</h2></br>
 <img src="./img/class-diagram.jpeg"></img>
+
+<h2>Screenshot</h2>
+
